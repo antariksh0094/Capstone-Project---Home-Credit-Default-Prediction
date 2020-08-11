@@ -1,4 +1,4 @@
-                                        PREDICTING LOAN DEFAULT - HOME CREDIT
+                              PREDICTING LOAN DEFAULT - HOME CREDIT
 
 Introduction:
 
